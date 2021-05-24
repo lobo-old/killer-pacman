@@ -1,0 +1,5235 @@
+inserido
+achou uma goma em lin:1  col:20
+achou uma goma em lin:1  col:22
+FILA:
+0:Pos:(1,20)
+Origin:0
+isDot:1
+1:Pos:(1,22)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:1  col:19
+achou uma goma em lin:2  col:20
+FILA:
+0:Pos:(1,22)
+Origin:2
+isDot:1
+1:Pos:(1,19)
+Origin:0
+isDot:1
+2:Pos:(2,20)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,20)
+Isdot:1
+Position:(1,20) Movement:0
+inserido
+achou uma goma em lin:1  col:19
+achou uma goma em lin:2  col:20
+FILA:
+0:Pos:(1,19)
+Origin:0
+isDot:1
+1:Pos:(1,21)
+Origin:2
+isDot:0
+2:Pos:(2,20)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:18
+achou uma goma em lin:2  col:19
+FILA:
+0:Pos:(1,21)
+Origin:2
+isDot:0
+1:Pos:(2,20)
+Origin:1
+isDot:1
+2:Pos:(1,18)
+Origin:0
+isDot:1
+3:Pos:(2,19)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,19)
+Isdot:1
+Position:(1,19) Movement:0
+inserido
+achou uma goma em lin:1  col:18
+achou uma goma em lin:2  col:19
+FILA:
+0:Pos:(1,18)
+Origin:0
+isDot:1
+1:Pos:(1,20)
+Origin:2
+isDot:0
+2:Pos:(2,19)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:17
+achou uma goma em lin:2  col:18
+FILA:
+0:Pos:(1,20)
+Origin:2
+isDot:0
+1:Pos:(2,19)
+Origin:1
+isDot:1
+2:Pos:(1,17)
+Origin:0
+isDot:1
+3:Pos:(2,18)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,18)
+Isdot:1
+Position:(1,18) Movement:0
+inserido
+achou uma goma em lin:1  col:17
+achou uma goma em lin:2  col:18
+FILA:
+0:Pos:(1,17)
+Origin:0
+isDot:1
+1:Pos:(1,19)
+Origin:2
+isDot:0
+2:Pos:(2,18)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:16
+FILA:
+0:Pos:(1,19)
+Origin:2
+isDot:0
+1:Pos:(2,18)
+Origin:1
+isDot:1
+2:Pos:(1,16)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,17)
+Isdot:1
+Position:(1,17) Movement:0
+inserido
+achou uma goma em lin:1  col:16
+FILA:
+0:Pos:(1,16)
+Origin:0
+isDot:1
+1:Pos:(1,18)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:15
+achou uma goma em lin:2  col:16
+FILA:
+0:Pos:(1,18)
+Origin:2
+isDot:0
+1:Pos:(1,15)
+Origin:0
+isDot:1
+2:Pos:(2,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,16)
+Isdot:1
+Position:(1,16) Movement:0
+inserido
+achou uma goma em lin:1  col:15
+achou uma goma em lin:2  col:16
+FILA:
+0:Pos:(1,15)
+Origin:0
+isDot:1
+1:Pos:(1,17)
+Origin:2
+isDot:0
+2:Pos:(2,16)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:14
+FILA:
+0:Pos:(1,17)
+Origin:2
+isDot:0
+1:Pos:(2,16)
+Origin:1
+isDot:1
+2:Pos:(1,14)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,15)
+Isdot:1
+Position:(1,15) Movement:0
+inserido
+achou uma goma em lin:1  col:14
+FILA:
+0:Pos:(1,14)
+Origin:0
+isDot:1
+1:Pos:(1,16)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:13
+FILA:
+0:Pos:(1,16)
+Origin:2
+isDot:0
+1:Pos:(1,13)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,14)
+Isdot:1
+Position:(1,14) Movement:0
+inserido
+achou uma goma em lin:1  col:13
+FILA:
+0:Pos:(1,13)
+Origin:0
+isDot:1
+1:Pos:(1,15)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:12
+achou uma goma em lin:2  col:13
+FILA:
+0:Pos:(1,15)
+Origin:2
+isDot:0
+1:Pos:(1,12)
+Origin:0
+isDot:1
+2:Pos:(2,13)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,13)
+Isdot:1
+Position:(1,13) Movement:0
+inserido
+achou uma goma em lin:1  col:12
+achou uma goma em lin:2  col:13
+FILA:
+0:Pos:(1,12)
+Origin:0
+isDot:1
+1:Pos:(1,14)
+Origin:2
+isDot:0
+2:Pos:(2,13)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:11
+FILA:
+0:Pos:(1,14)
+Origin:2
+isDot:0
+1:Pos:(2,13)
+Origin:1
+isDot:1
+2:Pos:(1,11)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,12)
+Isdot:1
+Position:(1,12) Movement:0
+inserido
+achou uma goma em lin:1  col:11
+FILA:
+0:Pos:(1,11)
+Origin:0
+isDot:1
+1:Pos:(1,13)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(1,13)
+Origin:2
+isDot:0
+1:Pos:(1,10)
+Origin:0
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(1,11)
+Isdot:1
+Position:(1,11) Movement:0
+inserido
+FILA:
+0:Pos:(1,10)
+Origin:0
+isDot:0
+1:Pos:(1,12)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:9
+FILA:
+0:Pos:(1,12)
+Origin:2
+isDot:0
+1:Pos:(1,9)
+Origin:0
+isDot:1
+
+
+FILA:
+0:Pos:(1,9)
+Origin:0
+isDot:1
+1:Pos:(1,13)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:8
+achou uma goma em lin:2  col:9
+FILA:
+0:Pos:(1,13)
+Origin:2
+isDot:0
+1:Pos:(1,8)
+Origin:0
+isDot:1
+2:Pos:(2,9)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,9)
+Isdot:1
+Position:(1,10) Movement:0
+Position:(1,9) Movement:0
+inserido
+achou uma goma em lin:1  col:8
+achou uma goma em lin:2  col:9
+FILA:
+0:Pos:(1,8)
+Origin:0
+isDot:1
+1:Pos:(1,10)
+Origin:2
+isDot:0
+2:Pos:(2,9)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:7
+FILA:
+0:Pos:(1,10)
+Origin:2
+isDot:0
+1:Pos:(2,9)
+Origin:1
+isDot:1
+2:Pos:(1,7)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,8)
+Isdot:1
+Position:(1,8) Movement:0
+inserido
+achou uma goma em lin:1  col:7
+FILA:
+0:Pos:(1,7)
+Origin:0
+isDot:1
+1:Pos:(1,9)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:6
+achou uma goma em lin:2  col:7
+FILA:
+0:Pos:(1,9)
+Origin:2
+isDot:0
+1:Pos:(1,6)
+Origin:0
+isDot:1
+2:Pos:(2,7)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,7)
+Isdot:1
+Position:(1,7) Movement:0
+inserido
+achou uma goma em lin:1  col:6
+achou uma goma em lin:2  col:7
+FILA:
+0:Pos:(1,6)
+Origin:0
+isDot:1
+1:Pos:(1,8)
+Origin:2
+isDot:0
+2:Pos:(2,7)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:5
+achou uma goma em lin:2  col:6
+FILA:
+0:Pos:(1,8)
+Origin:2
+isDot:0
+1:Pos:(2,7)
+Origin:1
+isDot:1
+2:Pos:(1,5)
+Origin:0
+isDot:1
+3:Pos:(2,6)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,6)
+Isdot:1
+Position:(1,6) Movement:0
+inserido
+achou uma goma em lin:1  col:5
+achou uma goma em lin:2  col:6
+FILA:
+0:Pos:(1,5)
+Origin:0
+isDot:1
+1:Pos:(1,7)
+Origin:2
+isDot:0
+2:Pos:(2,6)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:4
+FILA:
+0:Pos:(1,7)
+Origin:2
+isDot:0
+1:Pos:(2,6)
+Origin:1
+isDot:1
+2:Pos:(1,4)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,5)
+Isdot:1
+Position:(1,5) Movement:0
+inserido
+achou uma goma em lin:1  col:4
+FILA:
+0:Pos:(1,4)
+Origin:0
+isDot:1
+1:Pos:(1,6)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:3
+achou uma goma em lin:2  col:4
+FILA:
+0:Pos:(1,6)
+Origin:2
+isDot:0
+1:Pos:(1,3)
+Origin:0
+isDot:1
+2:Pos:(2,4)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,4)
+Isdot:1
+Position:(1,4) Movement:0
+inserido
+achou uma goma em lin:1  col:3
+achou uma goma em lin:2  col:4
+FILA:
+0:Pos:(1,3)
+Origin:0
+isDot:1
+1:Pos:(1,5)
+Origin:2
+isDot:0
+2:Pos:(2,4)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:1  col:2
+FILA:
+0:Pos:(1,5)
+Origin:2
+isDot:0
+1:Pos:(2,4)
+Origin:1
+isDot:1
+2:Pos:(1,2)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,3)
+Isdot:1
+Position:(1,3) Movement:0
+inserido
+achou uma goma em lin:1  col:2
+FILA:
+0:Pos:(1,2)
+Origin:0
+isDot:1
+1:Pos:(1,4)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:1  col:1
+FILA:
+0:Pos:(1,4)
+Origin:2
+isDot:0
+1:Pos:(1,1)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,2)
+Isdot:1
+Position:(1,2) Movement:0
+inserido
+achou uma goma em lin:1  col:1
+FILA:
+0:Pos:(1,1)
+Origin:0
+isDot:1
+1:Pos:(1,3)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:2  col:1
+FILA:
+0:Pos:(1,3)
+Origin:2
+isDot:0
+1:Pos:(0,1)
+Origin:3
+isDot:0
+2:Pos:(2,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(1,1)
+Isdot:1
+Position:(1,1) Movement:0
+inserido
+achou uma goma em lin:2  col:1
+FILA:
+0:Pos:(1,2)
+Origin:2
+isDot:0
+1:Pos:(0,1)
+Origin:3
+isDot:0
+2:Pos:(2,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(0,1)
+Origin:3
+isDot:0
+1:Pos:(2,1)
+Origin:1
+isDot:1
+2:Pos:(1,3)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(2,1)
+Origin:1
+isDot:1
+1:Pos:(1,3)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:3  col:1
+FILA:
+0:Pos:(1,3)
+Origin:2
+isDot:0
+1:Pos:(3,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(2,1)
+Isdot:1
+Position:(2,1) Movement:1
+inserido
+achou uma goma em lin:3  col:1
+FILA:
+0:Pos:(1,1)
+Origin:3
+isDot:0
+1:Pos:(3,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(3,1)
+Origin:1
+isDot:1
+1:Pos:(1,2)
+Origin:2
+isDot:0
+2:Pos:(0,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:4  col:1
+FILA:
+0:Pos:(1,2)
+Origin:2
+isDot:0
+1:Pos:(0,1)
+Origin:3
+isDot:0
+2:Pos:(4,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,1)
+Isdot:1
+Position:(3,1) Movement:1
+inserido
+achou uma goma em lin:4  col:1
+FILA:
+0:Pos:(2,1)
+Origin:3
+isDot:0
+1:Pos:(4,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(4,1)
+Origin:1
+isDot:1
+1:Pos:(1,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:4  col:0
+achou uma goma em lin:5  col:1
+FILA:
+0:Pos:(1,1)
+Origin:3
+isDot:0
+1:Pos:(4,0)
+Origin:0
+isDot:1
+2:Pos:(5,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,1)
+Isdot:1
+Position:(4,1) Movement:1
+inserido
+achou uma goma em lin:4  col:0
+achou uma goma em lin:5  col:1
+FILA:
+0:Pos:(4,0)
+Origin:0
+isDot:1
+1:Pos:(3,1)
+Origin:3
+isDot:0
+2:Pos:(5,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(3,1)
+Origin:3
+isDot:0
+1:Pos:(5,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,0)
+Isdot:1
+Position:(4,0) Movement:0
+inserido
+FILA:
+0:Pos:(4,1)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:5  col:1
+FILA:
+0:Pos:(3,1)
+Origin:3
+isDot:0
+1:Pos:(5,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(5,1)
+Origin:1
+isDot:1
+1:Pos:(2,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:6  col:1
+FILA:
+0:Pos:(2,1)
+Origin:3
+isDot:0
+1:Pos:(6,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,1)
+Isdot:1
+Position:(4,1) Movement:2
+Position:(5,1) Movement:1
+inserido
+achou uma goma em lin:6  col:1
+FILA:
+0:Pos:(4,1)
+Origin:3
+isDot:0
+1:Pos:(6,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(6,1)
+Origin:1
+isDot:1
+1:Pos:(4,0)
+Origin:0
+isDot:0
+2:Pos:(3,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:7  col:1
+FILA:
+0:Pos:(4,0)
+Origin:0
+isDot:0
+1:Pos:(3,1)
+Origin:3
+isDot:0
+2:Pos:(7,1)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(6,1)
+Isdot:1
+Position:(6,1) Movement:1
+inserido
+achou uma goma em lin:7  col:1
+FILA:
+0:Pos:(5,1)
+Origin:3
+isDot:0
+1:Pos:(7,1)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(7,1)
+Origin:1
+isDot:1
+1:Pos:(4,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:7  col:2
+FILA:
+0:Pos:(4,1)
+Origin:3
+isDot:0
+1:Pos:(7,2)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,1)
+Isdot:1
+Position:(7,1) Movement:1
+inserido
+achou uma goma em lin:7  col:2
+FILA:
+0:Pos:(7,2)
+Origin:2
+isDot:1
+1:Pos:(6,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:7  col:3
+FILA:
+0:Pos:(6,1)
+Origin:3
+isDot:0
+1:Pos:(7,3)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,2)
+Isdot:1
+Position:(7,2) Movement:2
+inserido
+achou uma goma em lin:7  col:3
+FILA:
+0:Pos:(7,1)
+Origin:0
+isDot:0
+1:Pos:(7,3)
+Origin:2
+isDot:1
+
+
+FILA:
+0:Pos:(7,3)
+Origin:2
+isDot:1
+1:Pos:(6,1)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:7  col:4
+FILA:
+0:Pos:(6,1)
+Origin:3
+isDot:0
+1:Pos:(7,4)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,3)
+Isdot:1
+Position:(7,3) Movement:2
+inserido
+achou uma goma em lin:7  col:4
+FILA:
+0:Pos:(7,2)
+Origin:0
+isDot:0
+1:Pos:(7,4)
+Origin:2
+isDot:1
+
+
+FILA:
+0:Pos:(7,4)
+Origin:2
+isDot:1
+1:Pos:(7,1)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:5
+achou uma goma em lin:6  col:4
+FILA:
+0:Pos:(7,1)
+Origin:0
+isDot:0
+1:Pos:(7,5)
+Origin:2
+isDot:1
+2:Pos:(6,4)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,4)
+Isdot:1
+Position:(7,4) Movement:2
+inserido
+achou uma goma em lin:7  col:5
+achou uma goma em lin:6  col:4
+FILA:
+0:Pos:(7,3)
+Origin:0
+isDot:0
+1:Pos:(7,5)
+Origin:2
+isDot:1
+2:Pos:(6,4)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,5)
+Origin:2
+isDot:1
+1:Pos:(6,4)
+Origin:3
+isDot:1
+2:Pos:(7,2)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:6
+FILA:
+0:Pos:(6,4)
+Origin:3
+isDot:1
+1:Pos:(7,2)
+Origin:0
+isDot:0
+2:Pos:(7,6)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,5)
+Isdot:1
+Position:(7,5) Movement:2
+inserido
+achou uma goma em lin:7  col:6
+FILA:
+0:Pos:(7,4)
+Origin:0
+isDot:0
+1:Pos:(7,6)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:4
+FILA:
+0:Pos:(7,6)
+Origin:2
+isDot:1
+1:Pos:(7,3)
+Origin:0
+isDot:0
+2:Pos:(6,4)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:7
+achou uma goma em lin:6  col:6
+FILA:
+0:Pos:(7,3)
+Origin:0
+isDot:0
+1:Pos:(6,4)
+Origin:3
+isDot:1
+2:Pos:(7,7)
+Origin:2
+isDot:1
+3:Pos:(6,6)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,6)
+Isdot:1
+Position:(7,6) Movement:2
+inserido
+achou uma goma em lin:7  col:7
+achou uma goma em lin:6  col:6
+FILA:
+0:Pos:(7,5)
+Origin:0
+isDot:0
+1:Pos:(7,7)
+Origin:2
+isDot:1
+2:Pos:(6,6)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,7)
+Origin:2
+isDot:1
+1:Pos:(6,6)
+Origin:3
+isDot:1
+2:Pos:(7,4)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:8
+achou uma goma em lin:6  col:7
+FILA:
+0:Pos:(6,6)
+Origin:3
+isDot:1
+1:Pos:(7,4)
+Origin:0
+isDot:0
+2:Pos:(7,8)
+Origin:2
+isDot:1
+3:Pos:(6,7)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,7)
+Isdot:1
+Position:(7,7) Movement:2
+inserido
+achou uma goma em lin:7  col:8
+achou uma goma em lin:6  col:7
+FILA:
+0:Pos:(7,6)
+Origin:0
+isDot:0
+1:Pos:(7,8)
+Origin:2
+isDot:1
+2:Pos:(6,7)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:6  col:6
+FILA:
+0:Pos:(7,8)
+Origin:2
+isDot:1
+1:Pos:(6,7)
+Origin:3
+isDot:1
+2:Pos:(7,5)
+Origin:0
+isDot:0
+3:Pos:(6,6)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:9
+FILA:
+0:Pos:(6,7)
+Origin:3
+isDot:1
+1:Pos:(7,5)
+Origin:0
+isDot:0
+2:Pos:(6,6)
+Origin:3
+isDot:1
+3:Pos:(7,9)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,8)
+Isdot:1
+Position:(7,8) Movement:2
+inserido
+achou uma goma em lin:7  col:9
+FILA:
+0:Pos:(7,7)
+Origin:0
+isDot:0
+1:Pos:(7,9)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:7
+FILA:
+0:Pos:(7,9)
+Origin:2
+isDot:1
+1:Pos:(7,6)
+Origin:0
+isDot:0
+2:Pos:(6,7)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:10
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(7,6)
+Origin:0
+isDot:0
+1:Pos:(6,7)
+Origin:3
+isDot:1
+2:Pos:(7,10)
+Origin:2
+isDot:1
+3:Pos:(6,9)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,9)
+Isdot:1
+Position:(7,9) Movement:2
+inserido
+achou uma goma em lin:7  col:10
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(7,8)
+Origin:0
+isDot:0
+1:Pos:(7,10)
+Origin:2
+isDot:1
+2:Pos:(6,9)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,10)
+Origin:2
+isDot:1
+1:Pos:(6,9)
+Origin:3
+isDot:1
+2:Pos:(7,7)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:11
+FILA:
+0:Pos:(6,9)
+Origin:3
+isDot:1
+1:Pos:(7,7)
+Origin:0
+isDot:0
+2:Pos:(7,11)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,10)
+Isdot:1
+Position:(7,10) Movement:2
+inserido
+achou uma goma em lin:7  col:11
+FILA:
+0:Pos:(7,9)
+Origin:0
+isDot:0
+1:Pos:(7,11)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(7,11)
+Origin:2
+isDot:1
+1:Pos:(7,8)
+Origin:0
+isDot:0
+2:Pos:(6,9)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:12
+FILA:
+0:Pos:(7,8)
+Origin:0
+isDot:0
+1:Pos:(6,9)
+Origin:3
+isDot:1
+2:Pos:(7,12)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,11)
+Isdot:1
+Position:(7,11) Movement:2
+inserido
+achou uma goma em lin:7  col:12
+FILA:
+0:Pos:(7,10)
+Origin:0
+isDot:0
+1:Pos:(7,12)
+Origin:2
+isDot:1
+
+
+FILA:
+0:Pos:(7,12)
+Origin:2
+isDot:1
+1:Pos:(7,9)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:13
+FILA:
+0:Pos:(7,9)
+Origin:0
+isDot:0
+1:Pos:(7,13)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,12)
+Isdot:1
+Position:(7,12) Movement:2
+inserido
+achou uma goma em lin:7  col:13
+FILA:
+0:Pos:(7,11)
+Origin:0
+isDot:0
+1:Pos:(7,13)
+Origin:2
+isDot:1
+
+
+FILA:
+0:Pos:(7,13)
+Origin:2
+isDot:1
+1:Pos:(7,10)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:14
+achou uma goma em lin:6  col:13
+FILA:
+0:Pos:(7,10)
+Origin:0
+isDot:0
+1:Pos:(7,14)
+Origin:2
+isDot:1
+2:Pos:(6,13)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,13)
+Isdot:1
+Position:(7,13) Movement:2
+inserido
+achou uma goma em lin:7  col:14
+achou uma goma em lin:6  col:13
+FILA:
+0:Pos:(7,12)
+Origin:0
+isDot:0
+1:Pos:(7,14)
+Origin:2
+isDot:1
+2:Pos:(6,13)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,14)
+Origin:2
+isDot:1
+1:Pos:(6,13)
+Origin:3
+isDot:1
+2:Pos:(7,11)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:15
+FILA:
+0:Pos:(6,13)
+Origin:3
+isDot:1
+1:Pos:(7,11)
+Origin:0
+isDot:0
+2:Pos:(7,15)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,14)
+Isdot:1
+Position:(7,14) Movement:2
+inserido
+achou uma goma em lin:7  col:15
+FILA:
+0:Pos:(7,13)
+Origin:0
+isDot:0
+1:Pos:(7,15)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:13
+FILA:
+0:Pos:(7,15)
+Origin:2
+isDot:1
+1:Pos:(7,12)
+Origin:0
+isDot:0
+2:Pos:(6,13)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:16
+FILA:
+0:Pos:(7,12)
+Origin:0
+isDot:0
+1:Pos:(6,13)
+Origin:3
+isDot:1
+2:Pos:(7,16)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,15)
+Isdot:1
+Position:(7,15) Movement:2
+inserido
+achou uma goma em lin:7  col:16
+FILA:
+0:Pos:(7,14)
+Origin:0
+isDot:0
+1:Pos:(7,16)
+Origin:2
+isDot:1
+
+
+FILA:
+0:Pos:(7,16)
+Origin:2
+isDot:1
+1:Pos:(7,13)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:17
+achou uma goma em lin:6  col:16
+FILA:
+0:Pos:(7,13)
+Origin:0
+isDot:0
+1:Pos:(7,17)
+Origin:2
+isDot:1
+2:Pos:(6,16)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,16)
+Isdot:1
+Position:(7,16) Movement:2
+inserido
+achou uma goma em lin:7  col:17
+achou uma goma em lin:6  col:16
+FILA:
+0:Pos:(7,15)
+Origin:0
+isDot:0
+1:Pos:(7,17)
+Origin:2
+isDot:1
+2:Pos:(6,16)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,17)
+Origin:2
+isDot:1
+1:Pos:(6,16)
+Origin:3
+isDot:1
+2:Pos:(7,14)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:18
+FILA:
+0:Pos:(6,16)
+Origin:3
+isDot:1
+1:Pos:(7,14)
+Origin:0
+isDot:0
+2:Pos:(7,18)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,17)
+Isdot:1
+Position:(7,17) Movement:2
+inserido
+achou uma goma em lin:7  col:18
+FILA:
+0:Pos:(7,16)
+Origin:0
+isDot:0
+1:Pos:(7,18)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:16
+FILA:
+0:Pos:(7,18)
+Origin:2
+isDot:1
+1:Pos:(7,15)
+Origin:0
+isDot:0
+2:Pos:(6,16)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:19
+achou uma goma em lin:6  col:18
+FILA:
+0:Pos:(7,15)
+Origin:0
+isDot:0
+1:Pos:(6,16)
+Origin:3
+isDot:1
+2:Pos:(7,19)
+Origin:2
+isDot:1
+3:Pos:(6,18)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,18)
+Isdot:1
+Position:(7,18) Movement:2
+inserido
+achou uma goma em lin:7  col:19
+achou uma goma em lin:6  col:18
+FILA:
+0:Pos:(7,17)
+Origin:0
+isDot:0
+1:Pos:(7,19)
+Origin:2
+isDot:1
+2:Pos:(6,18)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,19)
+Origin:2
+isDot:1
+1:Pos:(6,18)
+Origin:3
+isDot:1
+2:Pos:(7,16)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:7  col:20
+achou uma goma em lin:6  col:19
+FILA:
+0:Pos:(6,18)
+Origin:3
+isDot:1
+1:Pos:(7,16)
+Origin:0
+isDot:0
+2:Pos:(7,20)
+Origin:2
+isDot:1
+3:Pos:(6,19)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,19)
+Isdot:1
+Position:(7,19) Movement:2
+inserido
+achou uma goma em lin:7  col:20
+achou uma goma em lin:6  col:19
+FILA:
+0:Pos:(7,18)
+Origin:0
+isDot:0
+1:Pos:(7,20)
+Origin:2
+isDot:1
+2:Pos:(6,19)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:6  col:18
+FILA:
+0:Pos:(7,20)
+Origin:2
+isDot:1
+1:Pos:(6,19)
+Origin:3
+isDot:1
+2:Pos:(7,17)
+Origin:0
+isDot:0
+3:Pos:(6,18)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:21
+achou uma goma em lin:6  col:20
+FILA:
+0:Pos:(6,19)
+Origin:3
+isDot:1
+1:Pos:(7,17)
+Origin:0
+isDot:0
+2:Pos:(6,18)
+Origin:3
+isDot:1
+3:Pos:(7,21)
+Origin:2
+isDot:1
+4:Pos:(6,20)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,20)
+Isdot:1
+Position:(7,20) Movement:2
+inserido
+achou uma goma em lin:7  col:21
+achou uma goma em lin:6  col:20
+FILA:
+0:Pos:(7,19)
+Origin:0
+isDot:0
+1:Pos:(7,21)
+Origin:2
+isDot:1
+2:Pos:(6,20)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:6  col:19
+FILA:
+0:Pos:(7,21)
+Origin:2
+isDot:1
+1:Pos:(6,20)
+Origin:3
+isDot:1
+2:Pos:(7,18)
+Origin:0
+isDot:0
+3:Pos:(6,19)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:7  col:22
+FILA:
+0:Pos:(6,20)
+Origin:3
+isDot:1
+1:Pos:(7,18)
+Origin:0
+isDot:0
+2:Pos:(6,19)
+Origin:3
+isDot:1
+3:Pos:(7,22)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,21)
+Isdot:1
+Position:(7,21) Movement:2
+inserido
+achou uma goma em lin:7  col:22
+FILA:
+0:Pos:(7,20)
+Origin:0
+isDot:0
+1:Pos:(7,22)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:20
+FILA:
+0:Pos:(7,22)
+Origin:2
+isDot:1
+1:Pos:(7,19)
+Origin:0
+isDot:0
+2:Pos:(6,20)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:6  col:22
+FILA:
+0:Pos:(7,19)
+Origin:0
+isDot:0
+1:Pos:(6,20)
+Origin:3
+isDot:1
+2:Pos:(6,22)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(7,22)
+Isdot:1
+Position:(7,22) Movement:2
+inserido
+achou uma goma em lin:6  col:22
+FILA:
+0:Pos:(7,21)
+Origin:0
+isDot:0
+1:Pos:(6,22)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(6,22)
+Origin:3
+isDot:1
+1:Pos:(7,20)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:5  col:22
+FILA:
+0:Pos:(7,20)
+Origin:0
+isDot:0
+1:Pos:(5,22)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(6,22)
+Isdot:1
+Position:(6,22) Movement:3
+inserido
+achou uma goma em lin:5  col:22
+FILA:
+0:Pos:(5,22)
+Origin:3
+isDot:1
+1:Pos:(7,22)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:22
+FILA:
+0:Pos:(7,22)
+Origin:1
+isDot:0
+1:Pos:(4,22)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,22)
+Isdot:1
+Position:(5,22) Movement:3
+inserido
+achou uma goma em lin:4  col:22
+FILA:
+0:Pos:(4,22)
+Origin:3
+isDot:1
+1:Pos:(6,22)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:23
+achou uma goma em lin:3  col:22
+FILA:
+0:Pos:(6,22)
+Origin:1
+isDot:0
+1:Pos:(4,23)
+Origin:2
+isDot:1
+2:Pos:(3,22)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,22)
+Isdot:1
+Position:(4,22) Movement:3
+inserido
+achou uma goma em lin:4  col:23
+achou uma goma em lin:3  col:22
+FILA:
+0:Pos:(4,23)
+Origin:2
+isDot:1
+1:Pos:(3,22)
+Origin:3
+isDot:1
+2:Pos:(5,22)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(3,22)
+Origin:3
+isDot:1
+1:Pos:(5,22)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(4,23)
+Isdot:1
+Position:(4,23) Movement:2
+inserido
+FILA:
+0:Pos:(4,22)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:3  col:22
+FILA:
+0:Pos:(3,22)
+Origin:3
+isDot:1
+1:Pos:(5,22)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:2  col:22
+FILA:
+0:Pos:(5,22)
+Origin:1
+isDot:0
+1:Pos:(2,22)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,22)
+Isdot:1
+Position:(4,22) Movement:0
+Position:(3,22) Movement:3
+inserido
+achou uma goma em lin:2  col:22
+FILA:
+0:Pos:(2,22)
+Origin:3
+isDot:1
+1:Pos:(4,22)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:1  col:22
+FILA:
+0:Pos:(4,22)
+Origin:1
+isDot:0
+1:Pos:(1,22)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(2,22)
+Isdot:1
+Position:(2,22) Movement:3
+inserido
+achou uma goma em lin:1  col:22
+FILA:
+0:Pos:(1,22)
+Origin:3
+isDot:1
+1:Pos:(3,22)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(3,22)
+Origin:1
+isDot:0
+1:Pos:(1,21)
+Origin:0
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(1,22)
+Isdot:1
+Position:(1,22) Movement:3
+inserido
+FILA:
+0:Pos:(1,21)
+Origin:0
+isDot:0
+1:Pos:(2,22)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(2,22)
+Origin:1
+isDot:0
+1:Pos:(1,20)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(1,20)
+Origin:0
+isDot:0
+1:Pos:(3,22)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:2  col:20
+FILA:
+0:Pos:(3,22)
+Origin:1
+isDot:0
+1:Pos:(1,19)
+Origin:0
+isDot:0
+2:Pos:(2,20)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(1,19)
+Origin:0
+isDot:0
+1:Pos:(2,20)
+Origin:1
+isDot:1
+2:Pos:(4,22)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:2  col:19
+FILA:
+0:Pos:(2,20)
+Origin:1
+isDot:1
+1:Pos:(4,22)
+Origin:1
+isDot:0
+2:Pos:(1,18)
+Origin:0
+isDot:0
+3:Pos:(2,19)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(4,22)
+Origin:1
+isDot:0
+1:Pos:(1,18)
+Origin:0
+isDot:0
+2:Pos:(2,19)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(2,20)
+Isdot:1
+Position:(1,21) Movement:0
+Position:(1,20) Movement:0
+Position:(2,20) Movement:1
+inserido
+achou uma goma em lin:2  col:19
+FILA:
+0:Pos:(2,19)
+Origin:0
+isDot:1
+1:Pos:(1,20)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:2  col:18
+achou uma goma em lin:3  col:19
+FILA:
+0:Pos:(1,20)
+Origin:3
+isDot:0
+1:Pos:(2,18)
+Origin:0
+isDot:1
+2:Pos:(1,19)
+Origin:3
+isDot:0
+3:Pos:(3,19)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(2,19)
+Isdot:1
+Position:(2,19) Movement:0
+inserido
+achou uma goma em lin:2  col:18
+achou uma goma em lin:3  col:19
+FILA:
+0:Pos:(2,18)
+Origin:0
+isDot:1
+1:Pos:(2,20)
+Origin:2
+isDot:0
+2:Pos:(1,19)
+Origin:3
+isDot:0
+3:Pos:(3,19)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(2,20)
+Origin:2
+isDot:0
+1:Pos:(1,19)
+Origin:3
+isDot:0
+2:Pos:(3,19)
+Origin:1
+isDot:1
+3:Pos:(1,18)
+Origin:3
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(2,18)
+Isdot:1
+Position:(2,18) Movement:0
+inserido
+FILA:
+0:Pos:(2,19)
+Origin:2
+isDot:0
+1:Pos:(1,18)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:3  col:19
+FILA:
+0:Pos:(1,18)
+Origin:3
+isDot:0
+1:Pos:(2,20)
+Origin:2
+isDot:0
+2:Pos:(1,19)
+Origin:3
+isDot:0
+3:Pos:(3,19)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(2,20)
+Origin:2
+isDot:0
+1:Pos:(1,19)
+Origin:3
+isDot:0
+2:Pos:(3,19)
+Origin:1
+isDot:1
+3:Pos:(1,17)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(1,19)
+Origin:3
+isDot:0
+1:Pos:(3,19)
+Origin:1
+isDot:1
+2:Pos:(1,17)
+Origin:0
+isDot:0
+3:Pos:(1,20)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(3,19)
+Origin:1
+isDot:1
+1:Pos:(1,17)
+Origin:0
+isDot:0
+2:Pos:(1,20)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(1,17)
+Origin:0
+isDot:0
+1:Pos:(1,20)
+Origin:3
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(3,19)
+Isdot:1
+Position:(2,19) Movement:2
+Position:(3,19) Movement:1
+inserido
+FILA:
+0:Pos:(2,19)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(2,18)
+Origin:0
+isDot:0
+1:Pos:(2,20)
+Origin:2
+isDot:0
+2:Pos:(1,19)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(2,20)
+Origin:2
+isDot:0
+1:Pos:(1,19)
+Origin:3
+isDot:0
+2:Pos:(1,18)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(1,19)
+Origin:3
+isDot:0
+1:Pos:(1,18)
+Origin:3
+isDot:0
+2:Pos:(1,20)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(1,18)
+Origin:3
+isDot:0
+1:Pos:(1,20)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(1,20)
+Origin:3
+isDot:0
+1:Pos:(1,17)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(1,17)
+Origin:0
+isDot:0
+1:Pos:(1,21)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(1,21)
+Origin:2
+isDot:0
+1:Pos:(1,16)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(1,16)
+Origin:0
+isDot:0
+1:Pos:(1,22)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:2  col:16
+FILA:
+0:Pos:(1,22)
+Origin:2
+isDot:0
+1:Pos:(1,15)
+Origin:0
+isDot:0
+2:Pos:(2,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(1,15)
+Origin:0
+isDot:0
+1:Pos:(2,16)
+Origin:1
+isDot:1
+2:Pos:(2,22)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(2,16)
+Origin:1
+isDot:1
+1:Pos:(2,22)
+Origin:1
+isDot:0
+2:Pos:(1,14)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:3  col:16
+FILA:
+0:Pos:(2,22)
+Origin:1
+isDot:0
+1:Pos:(1,14)
+Origin:0
+isDot:0
+2:Pos:(3,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(2,16)
+Isdot:1
+Position:(2,19) Movement:3
+Position:(2,18) Movement:0
+Position:(1,18) Movement:3
+Position:(1,17) Movement:0
+Position:(1,16) Movement:0
+Position:(2,16) Movement:1
+inserido
+achou uma goma em lin:3  col:16
+FILA:
+0:Pos:(1,16)
+Origin:3
+isDot:0
+1:Pos:(3,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(3,16)
+Origin:1
+isDot:1
+1:Pos:(1,15)
+Origin:0
+isDot:0
+2:Pos:(1,17)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:3  col:15
+achou uma goma em lin:4  col:16
+FILA:
+0:Pos:(1,15)
+Origin:0
+isDot:0
+1:Pos:(1,17)
+Origin:2
+isDot:0
+2:Pos:(3,15)
+Origin:0
+isDot:1
+3:Pos:(4,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,16)
+Isdot:1
+Position:(3,16) Movement:1
+inserido
+achou uma goma em lin:3  col:15
+achou uma goma em lin:4  col:16
+FILA:
+0:Pos:(3,15)
+Origin:0
+isDot:1
+1:Pos:(2,16)
+Origin:3
+isDot:0
+2:Pos:(4,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(2,16)
+Origin:3
+isDot:0
+1:Pos:(4,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,15)
+Isdot:1
+Position:(3,15) Movement:0
+inserido
+FILA:
+0:Pos:(3,16)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:4  col:16
+FILA:
+0:Pos:(2,16)
+Origin:3
+isDot:0
+1:Pos:(4,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(4,16)
+Origin:1
+isDot:1
+1:Pos:(1,16)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:5  col:16
+FILA:
+0:Pos:(1,16)
+Origin:3
+isDot:0
+1:Pos:(5,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,16)
+Isdot:1
+Position:(3,16) Movement:2
+Position:(4,16) Movement:1
+inserido
+achou uma goma em lin:5  col:16
+FILA:
+0:Pos:(3,16)
+Origin:3
+isDot:0
+1:Pos:(5,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(5,16)
+Origin:1
+isDot:1
+1:Pos:(3,15)
+Origin:0
+isDot:0
+2:Pos:(2,16)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:5  col:15
+achou uma goma em lin:6  col:16
+FILA:
+0:Pos:(3,15)
+Origin:0
+isDot:0
+1:Pos:(2,16)
+Origin:3
+isDot:0
+2:Pos:(5,15)
+Origin:0
+isDot:1
+3:Pos:(6,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,16)
+Isdot:1
+Position:(5,16) Movement:1
+inserido
+achou uma goma em lin:5  col:15
+achou uma goma em lin:6  col:16
+FILA:
+0:Pos:(5,15)
+Origin:0
+isDot:1
+1:Pos:(4,16)
+Origin:3
+isDot:0
+2:Pos:(6,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(4,16)
+Origin:3
+isDot:0
+1:Pos:(6,16)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,15)
+Isdot:1
+Position:(5,15) Movement:0
+inserido
+FILA:
+0:Pos:(5,16)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:6  col:16
+FILA:
+0:Pos:(4,16)
+Origin:3
+isDot:0
+1:Pos:(6,16)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(6,16)
+Origin:1
+isDot:1
+1:Pos:(3,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(3,16)
+Origin:3
+isDot:0
+1:Pos:(7,16)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(6,16)
+Isdot:1
+Position:(5,16) Movement:2
+Position:(6,16) Movement:1
+inserido
+FILA:
+0:Pos:(5,16)
+Origin:3
+isDot:0
+1:Pos:(7,16)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,16)
+Origin:1
+isDot:0
+1:Pos:(5,15)
+Origin:0
+isDot:0
+2:Pos:(4,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(5,15)
+Origin:0
+isDot:0
+1:Pos:(4,16)
+Origin:3
+isDot:0
+2:Pos:(7,15)
+Origin:0
+isDot:0
+3:Pos:(7,17)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(4,16)
+Origin:3
+isDot:0
+1:Pos:(7,15)
+Origin:0
+isDot:0
+2:Pos:(7,17)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,15)
+Origin:0
+isDot:0
+1:Pos:(7,17)
+Origin:2
+isDot:0
+2:Pos:(3,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,17)
+Origin:2
+isDot:0
+1:Pos:(3,16)
+Origin:3
+isDot:0
+2:Pos:(7,14)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(3,16)
+Origin:3
+isDot:0
+1:Pos:(7,14)
+Origin:0
+isDot:0
+2:Pos:(7,18)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,14)
+Origin:0
+isDot:0
+1:Pos:(7,18)
+Origin:2
+isDot:0
+2:Pos:(3,15)
+Origin:0
+isDot:0
+3:Pos:(2,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,18)
+Origin:2
+isDot:0
+1:Pos:(3,15)
+Origin:0
+isDot:0
+2:Pos:(2,16)
+Origin:3
+isDot:0
+3:Pos:(7,13)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:6  col:18
+FILA:
+0:Pos:(3,15)
+Origin:0
+isDot:0
+1:Pos:(2,16)
+Origin:3
+isDot:0
+2:Pos:(7,13)
+Origin:0
+isDot:0
+3:Pos:(7,19)
+Origin:2
+isDot:0
+4:Pos:(6,18)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(2,16)
+Origin:3
+isDot:0
+1:Pos:(7,13)
+Origin:0
+isDot:0
+2:Pos:(7,19)
+Origin:2
+isDot:0
+3:Pos:(6,18)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,13)
+Origin:0
+isDot:0
+1:Pos:(7,19)
+Origin:2
+isDot:0
+2:Pos:(6,18)
+Origin:3
+isDot:1
+3:Pos:(1,16)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:6  col:13
+FILA:
+0:Pos:(7,19)
+Origin:2
+isDot:0
+1:Pos:(6,18)
+Origin:3
+isDot:1
+2:Pos:(1,16)
+Origin:3
+isDot:0
+3:Pos:(7,12)
+Origin:0
+isDot:0
+4:Pos:(6,13)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:6  col:19
+FILA:
+0:Pos:(6,18)
+Origin:3
+isDot:1
+1:Pos:(1,16)
+Origin:3
+isDot:0
+2:Pos:(7,12)
+Origin:0
+isDot:0
+3:Pos:(6,13)
+Origin:3
+isDot:1
+4:Pos:(7,20)
+Origin:2
+isDot:0
+5:Pos:(6,19)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:5  col:18
+FILA:
+0:Pos:(1,16)
+Origin:3
+isDot:0
+1:Pos:(7,12)
+Origin:0
+isDot:0
+2:Pos:(6,13)
+Origin:3
+isDot:1
+3:Pos:(7,20)
+Origin:2
+isDot:0
+4:Pos:(6,19)
+Origin:3
+isDot:1
+5:Pos:(5,18)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(6,18)
+Isdot:1
+Position:(7,16) Movement:1
+Position:(7,17) Movement:2
+Position:(7,18) Movement:2
+Position:(6,18) Movement:3
+inserido
+achou uma goma em lin:6  col:19
+achou uma goma em lin:5  col:18
+FILA:
+0:Pos:(6,19)
+Origin:2
+isDot:1
+1:Pos:(5,18)
+Origin:3
+isDot:1
+2:Pos:(7,18)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:6  col:20
+achou uma goma em lin:5  col:19
+FILA:
+0:Pos:(5,18)
+Origin:3
+isDot:1
+1:Pos:(7,18)
+Origin:1
+isDot:0
+2:Pos:(6,20)
+Origin:2
+isDot:1
+3:Pos:(5,19)
+Origin:3
+isDot:1
+4:Pos:(7,19)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(6,19)
+Isdot:1
+Position:(6,19) Movement:2
+inserido
+achou uma goma em lin:6  col:20
+achou uma goma em lin:5  col:19
+FILA:
+0:Pos:(6,18)
+Origin:0
+isDot:0
+1:Pos:(6,20)
+Origin:2
+isDot:1
+2:Pos:(5,19)
+Origin:3
+isDot:1
+3:Pos:(7,19)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:18
+FILA:
+0:Pos:(6,20)
+Origin:2
+isDot:1
+1:Pos:(5,19)
+Origin:3
+isDot:1
+2:Pos:(7,19)
+Origin:1
+isDot:0
+3:Pos:(5,18)
+Origin:3
+isDot:1
+4:Pos:(7,18)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:20
+FILA:
+0:Pos:(5,19)
+Origin:3
+isDot:1
+1:Pos:(7,19)
+Origin:1
+isDot:0
+2:Pos:(5,18)
+Origin:3
+isDot:1
+3:Pos:(7,18)
+Origin:1
+isDot:0
+4:Pos:(5,20)
+Origin:3
+isDot:1
+5:Pos:(7,20)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(6,20)
+Isdot:1
+Position:(6,20) Movement:2
+inserido
+achou uma goma em lin:5  col:20
+FILA:
+0:Pos:(6,19)
+Origin:0
+isDot:0
+1:Pos:(5,20)
+Origin:3
+isDot:1
+2:Pos:(7,20)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:19
+FILA:
+0:Pos:(5,20)
+Origin:3
+isDot:1
+1:Pos:(7,20)
+Origin:1
+isDot:0
+2:Pos:(6,18)
+Origin:0
+isDot:0
+3:Pos:(5,19)
+Origin:3
+isDot:1
+4:Pos:(7,19)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:20
+FILA:
+0:Pos:(7,20)
+Origin:1
+isDot:0
+1:Pos:(6,18)
+Origin:0
+isDot:0
+2:Pos:(5,19)
+Origin:3
+isDot:1
+3:Pos:(7,19)
+Origin:1
+isDot:0
+4:Pos:(4,20)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,20)
+Isdot:1
+Position:(5,20) Movement:3
+inserido
+achou uma goma em lin:5  col:19
+achou uma goma em lin:4  col:20
+FILA:
+0:Pos:(5,19)
+Origin:0
+isDot:1
+1:Pos:(4,20)
+Origin:3
+isDot:1
+2:Pos:(6,20)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:18
+FILA:
+0:Pos:(4,20)
+Origin:3
+isDot:1
+1:Pos:(6,20)
+Origin:1
+isDot:0
+2:Pos:(5,18)
+Origin:0
+isDot:1
+3:Pos:(6,19)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(5,19)
+Isdot:1
+Position:(5,19) Movement:0
+inserido
+achou uma goma em lin:5  col:18
+FILA:
+0:Pos:(5,18)
+Origin:0
+isDot:1
+1:Pos:(5,20)
+Origin:2
+isDot:0
+2:Pos:(6,19)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:18
+FILA:
+0:Pos:(5,20)
+Origin:2
+isDot:0
+1:Pos:(6,19)
+Origin:1
+isDot:0
+2:Pos:(4,18)
+Origin:3
+isDot:1
+3:Pos:(6,18)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(5,18)
+Isdot:1
+Position:(5,18) Movement:0
+inserido
+achou uma goma em lin:4  col:18
+FILA:
+0:Pos:(5,19)
+Origin:2
+isDot:0
+1:Pos:(4,18)
+Origin:3
+isDot:1
+2:Pos:(6,18)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,18)
+Origin:3
+isDot:1
+1:Pos:(6,18)
+Origin:1
+isDot:0
+2:Pos:(5,20)
+Origin:2
+isDot:0
+3:Pos:(6,19)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,18)
+Origin:1
+isDot:0
+1:Pos:(5,20)
+Origin:2
+isDot:0
+2:Pos:(6,19)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(4,18)
+Isdot:1
+Position:(4,18) Movement:3
+inserido
+FILA:
+0:Pos:(5,18)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(5,19)
+Origin:2
+isDot:0
+1:Pos:(6,18)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,18)
+Origin:1
+isDot:0
+1:Pos:(5,20)
+Origin:2
+isDot:0
+2:Pos:(6,19)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(5,20)
+Origin:2
+isDot:0
+1:Pos:(6,19)
+Origin:1
+isDot:0
+2:Pos:(7,18)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:20
+FILA:
+0:Pos:(6,19)
+Origin:1
+isDot:0
+1:Pos:(7,18)
+Origin:1
+isDot:0
+2:Pos:(4,20)
+Origin:3
+isDot:1
+3:Pos:(6,20)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,18)
+Origin:1
+isDot:0
+1:Pos:(4,20)
+Origin:3
+isDot:1
+2:Pos:(6,20)
+Origin:1
+isDot:0
+3:Pos:(7,19)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,20)
+Origin:3
+isDot:1
+1:Pos:(6,20)
+Origin:1
+isDot:0
+2:Pos:(7,19)
+Origin:1
+isDot:0
+3:Pos:(7,17)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(6,20)
+Origin:1
+isDot:0
+1:Pos:(7,19)
+Origin:1
+isDot:0
+2:Pos:(7,17)
+Origin:0
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(4,20)
+Isdot:1
+Position:(5,18) Movement:1
+Position:(5,19) Movement:2
+Position:(5,20) Movement:2
+Position:(4,20) Movement:3
+inserido
+FILA:
+0:Pos:(5,20)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(5,19)
+Origin:0
+isDot:0
+1:Pos:(6,20)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,20)
+Origin:1
+isDot:0
+1:Pos:(5,18)
+Origin:0
+isDot:0
+2:Pos:(6,19)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(5,18)
+Origin:0
+isDot:0
+1:Pos:(6,19)
+Origin:1
+isDot:0
+2:Pos:(7,20)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,19)
+Origin:1
+isDot:0
+1:Pos:(7,20)
+Origin:1
+isDot:0
+2:Pos:(4,18)
+Origin:3
+isDot:0
+3:Pos:(6,18)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,20)
+Origin:1
+isDot:0
+1:Pos:(4,18)
+Origin:3
+isDot:0
+2:Pos:(6,18)
+Origin:1
+isDot:0
+3:Pos:(7,19)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,18)
+Origin:3
+isDot:0
+1:Pos:(6,18)
+Origin:1
+isDot:0
+2:Pos:(7,19)
+Origin:1
+isDot:0
+3:Pos:(7,21)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(6,18)
+Origin:1
+isDot:0
+1:Pos:(7,19)
+Origin:1
+isDot:0
+2:Pos:(7,21)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,19)
+Origin:1
+isDot:0
+1:Pos:(7,21)
+Origin:2
+isDot:0
+2:Pos:(7,18)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,21)
+Origin:2
+isDot:0
+1:Pos:(7,18)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,18)
+Origin:1
+isDot:0
+1:Pos:(7,22)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,22)
+Origin:2
+isDot:0
+1:Pos:(7,17)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(7,17)
+Origin:0
+isDot:0
+1:Pos:(6,22)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(6,22)
+Origin:3
+isDot:0
+1:Pos:(7,16)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(7,16)
+Origin:0
+isDot:0
+1:Pos:(5,22)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(5,22)
+Origin:3
+isDot:0
+1:Pos:(7,15)
+Origin:0
+isDot:0
+2:Pos:(6,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,15)
+Origin:0
+isDot:0
+1:Pos:(6,16)
+Origin:3
+isDot:0
+2:Pos:(4,22)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(6,16)
+Origin:3
+isDot:0
+1:Pos:(4,22)
+Origin:3
+isDot:0
+2:Pos:(7,14)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(4,22)
+Origin:3
+isDot:0
+1:Pos:(7,14)
+Origin:0
+isDot:0
+2:Pos:(5,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,14)
+Origin:0
+isDot:0
+1:Pos:(5,16)
+Origin:3
+isDot:0
+2:Pos:(4,23)
+Origin:2
+isDot:0
+3:Pos:(3,22)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(5,16)
+Origin:3
+isDot:0
+1:Pos:(4,23)
+Origin:2
+isDot:0
+2:Pos:(3,22)
+Origin:3
+isDot:0
+3:Pos:(7,13)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(4,23)
+Origin:2
+isDot:0
+1:Pos:(3,22)
+Origin:3
+isDot:0
+2:Pos:(7,13)
+Origin:0
+isDot:0
+3:Pos:(5,15)
+Origin:0
+isDot:0
+4:Pos:(4,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(3,22)
+Origin:3
+isDot:0
+1:Pos:(7,13)
+Origin:0
+isDot:0
+2:Pos:(5,15)
+Origin:0
+isDot:0
+3:Pos:(4,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,13)
+Origin:0
+isDot:0
+1:Pos:(5,15)
+Origin:0
+isDot:0
+2:Pos:(4,16)
+Origin:3
+isDot:0
+3:Pos:(2,22)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:6  col:13
+FILA:
+0:Pos:(5,15)
+Origin:0
+isDot:0
+1:Pos:(4,16)
+Origin:3
+isDot:0
+2:Pos:(2,22)
+Origin:3
+isDot:0
+3:Pos:(7,12)
+Origin:0
+isDot:0
+4:Pos:(6,13)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(4,16)
+Origin:3
+isDot:0
+1:Pos:(2,22)
+Origin:3
+isDot:0
+2:Pos:(7,12)
+Origin:0
+isDot:0
+3:Pos:(6,13)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(2,22)
+Origin:3
+isDot:0
+1:Pos:(7,12)
+Origin:0
+isDot:0
+2:Pos:(6,13)
+Origin:3
+isDot:1
+3:Pos:(3,16)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,12)
+Origin:0
+isDot:0
+1:Pos:(6,13)
+Origin:3
+isDot:1
+2:Pos:(3,16)
+Origin:3
+isDot:0
+3:Pos:(1,22)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(6,13)
+Origin:3
+isDot:1
+1:Pos:(3,16)
+Origin:3
+isDot:0
+2:Pos:(1,22)
+Origin:3
+isDot:0
+3:Pos:(7,11)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:5  col:13
+FILA:
+0:Pos:(3,16)
+Origin:3
+isDot:0
+1:Pos:(1,22)
+Origin:3
+isDot:0
+2:Pos:(7,11)
+Origin:0
+isDot:0
+3:Pos:(5,13)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(6,13)
+Isdot:1
+Position:(5,20) Movement:1
+Position:(5,19) Movement:0
+Position:(5,18) Movement:0
+Position:(6,18) Movement:1
+Position:(7,18) Movement:1
+Position:(7,17) Movement:0
+Position:(7,16) Movement:0
+Position:(7,15) Movement:0
+Position:(7,14) Movement:0
+Position:(7,13) Movement:0
+Position:(6,13) Movement:3
+inserido
+achou uma goma em lin:5  col:13
+FILA:
+0:Pos:(5,13)
+Origin:3
+isDot:1
+1:Pos:(7,13)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:13
+FILA:
+0:Pos:(7,13)
+Origin:1
+isDot:0
+1:Pos:(4,13)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,13)
+Isdot:1
+Position:(5,13) Movement:3
+inserido
+achou uma goma em lin:4  col:13
+FILA:
+0:Pos:(4,13)
+Origin:3
+isDot:1
+1:Pos:(6,13)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:3  col:13
+FILA:
+0:Pos:(6,13)
+Origin:1
+isDot:0
+1:Pos:(3,13)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,13)
+Isdot:1
+Position:(4,13) Movement:3
+inserido
+achou uma goma em lin:3  col:13
+FILA:
+0:Pos:(3,13)
+Origin:3
+isDot:1
+1:Pos:(5,13)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:3  col:12
+achou uma goma em lin:2  col:13
+FILA:
+0:Pos:(5,13)
+Origin:1
+isDot:0
+1:Pos:(3,12)
+Origin:0
+isDot:1
+2:Pos:(2,13)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,13)
+Isdot:1
+Position:(3,13) Movement:3
+inserido
+achou uma goma em lin:3  col:12
+achou uma goma em lin:2  col:13
+FILA:
+0:Pos:(3,12)
+Origin:0
+isDot:1
+1:Pos:(2,13)
+Origin:3
+isDot:1
+2:Pos:(4,13)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:3  col:11
+FILA:
+0:Pos:(2,13)
+Origin:3
+isDot:1
+1:Pos:(4,13)
+Origin:1
+isDot:0
+2:Pos:(3,11)
+Origin:0
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,12)
+Isdot:1
+Position:(3,12) Movement:0
+inserido
+achou uma goma em lin:3  col:11
+FILA:
+0:Pos:(3,11)
+Origin:0
+isDot:1
+1:Pos:(3,13)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(3,13)
+Origin:2
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(3,11)
+Isdot:1
+Position:(3,11) Movement:0
+inserido
+FILA:
+0:Pos:(3,12)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(3,13)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:2  col:13
+FILA:
+0:Pos:(2,13)
+Origin:3
+isDot:1
+1:Pos:(4,13)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,13)
+Origin:1
+isDot:0
+1:Pos:(1,13)
+Origin:3
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(2,13)
+Isdot:1
+Position:(3,12) Movement:2
+Position:(3,13) Movement:2
+Position:(2,13) Movement:3
+inserido
+FILA:
+0:Pos:(1,13)
+Origin:3
+isDot:0
+1:Pos:(3,13)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(3,13)
+Origin:1
+isDot:0
+1:Pos:(1,12)
+Origin:0
+isDot:0
+2:Pos:(1,14)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(1,12)
+Origin:0
+isDot:0
+1:Pos:(1,14)
+Origin:2
+isDot:0
+2:Pos:(3,12)
+Origin:0
+isDot:0
+3:Pos:(4,13)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,14)
+Origin:2
+isDot:0
+1:Pos:(3,12)
+Origin:0
+isDot:0
+2:Pos:(4,13)
+Origin:1
+isDot:0
+3:Pos:(1,11)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(3,12)
+Origin:0
+isDot:0
+1:Pos:(4,13)
+Origin:1
+isDot:0
+2:Pos:(1,11)
+Origin:0
+isDot:0
+3:Pos:(1,15)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(4,13)
+Origin:1
+isDot:0
+1:Pos:(1,11)
+Origin:0
+isDot:0
+2:Pos:(1,15)
+Origin:2
+isDot:0
+3:Pos:(3,11)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(1,11)
+Origin:0
+isDot:0
+1:Pos:(1,15)
+Origin:2
+isDot:0
+2:Pos:(3,11)
+Origin:0
+isDot:0
+3:Pos:(5,13)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,15)
+Origin:2
+isDot:0
+1:Pos:(3,11)
+Origin:0
+isDot:0
+2:Pos:(5,13)
+Origin:1
+isDot:0
+3:Pos:(1,10)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(3,11)
+Origin:0
+isDot:0
+1:Pos:(5,13)
+Origin:1
+isDot:0
+2:Pos:(1,10)
+Origin:0
+isDot:0
+3:Pos:(1,16)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(5,13)
+Origin:1
+isDot:0
+1:Pos:(1,10)
+Origin:0
+isDot:0
+2:Pos:(1,16)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(1,10)
+Origin:0
+isDot:0
+1:Pos:(1,16)
+Origin:2
+isDot:0
+2:Pos:(6,13)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,16)
+Origin:2
+isDot:0
+1:Pos:(6,13)
+Origin:1
+isDot:0
+2:Pos:(1,9)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(6,13)
+Origin:1
+isDot:0
+1:Pos:(1,9)
+Origin:0
+isDot:0
+2:Pos:(1,17)
+Origin:2
+isDot:0
+3:Pos:(2,16)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,9)
+Origin:0
+isDot:0
+1:Pos:(1,17)
+Origin:2
+isDot:0
+2:Pos:(2,16)
+Origin:1
+isDot:0
+3:Pos:(7,13)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:2  col:9
+FILA:
+0:Pos:(1,17)
+Origin:2
+isDot:0
+1:Pos:(2,16)
+Origin:1
+isDot:0
+2:Pos:(7,13)
+Origin:1
+isDot:0
+3:Pos:(1,8)
+Origin:0
+isDot:0
+4:Pos:(2,9)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(2,16)
+Origin:1
+isDot:0
+1:Pos:(7,13)
+Origin:1
+isDot:0
+2:Pos:(1,8)
+Origin:0
+isDot:0
+3:Pos:(2,9)
+Origin:1
+isDot:1
+4:Pos:(1,18)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,13)
+Origin:1
+isDot:0
+1:Pos:(1,8)
+Origin:0
+isDot:0
+2:Pos:(2,9)
+Origin:1
+isDot:1
+3:Pos:(1,18)
+Origin:2
+isDot:0
+4:Pos:(3,16)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,8)
+Origin:0
+isDot:0
+1:Pos:(2,9)
+Origin:1
+isDot:1
+2:Pos:(1,18)
+Origin:2
+isDot:0
+3:Pos:(3,16)
+Origin:1
+isDot:0
+4:Pos:(7,12)
+Origin:0
+isDot:0
+5:Pos:(7,14)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(2,9)
+Origin:1
+isDot:1
+1:Pos:(1,18)
+Origin:2
+isDot:0
+2:Pos:(3,16)
+Origin:1
+isDot:0
+3:Pos:(7,12)
+Origin:0
+isDot:0
+4:Pos:(7,14)
+Origin:2
+isDot:0
+5:Pos:(1,7)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:3  col:9
+FILA:
+0:Pos:(1,18)
+Origin:2
+isDot:0
+1:Pos:(3,16)
+Origin:1
+isDot:0
+2:Pos:(7,12)
+Origin:0
+isDot:0
+3:Pos:(7,14)
+Origin:2
+isDot:0
+4:Pos:(1,7)
+Origin:0
+isDot:0
+5:Pos:(3,9)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(2,9)
+Isdot:1
+Position:(1,13) Movement:3
+Position:(1,12) Movement:0
+Position:(1,11) Movement:0
+Position:(1,10) Movement:0
+Position:(1,9) Movement:0
+Position:(2,9) Movement:1
+inserido
+achou uma goma em lin:3  col:9
+FILA:
+0:Pos:(1,9)
+Origin:3
+isDot:0
+1:Pos:(3,9)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(3,9)
+Origin:1
+isDot:1
+1:Pos:(1,8)
+Origin:0
+isDot:0
+2:Pos:(1,10)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:4  col:9
+FILA:
+0:Pos:(1,8)
+Origin:0
+isDot:0
+1:Pos:(1,10)
+Origin:2
+isDot:0
+2:Pos:(4,9)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,9)
+Isdot:1
+Position:(3,9) Movement:1
+inserido
+achou uma goma em lin:4  col:9
+FILA:
+0:Pos:(2,9)
+Origin:3
+isDot:0
+1:Pos:(4,9)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(4,9)
+Origin:1
+isDot:1
+1:Pos:(1,9)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:5  col:9
+FILA:
+0:Pos:(1,9)
+Origin:3
+isDot:0
+1:Pos:(5,9)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,9)
+Isdot:1
+Position:(4,9) Movement:1
+inserido
+achou uma goma em lin:5  col:9
+FILA:
+0:Pos:(3,9)
+Origin:3
+isDot:0
+1:Pos:(5,9)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(5,9)
+Origin:1
+isDot:1
+1:Pos:(2,9)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:5  col:10
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(2,9)
+Origin:3
+isDot:0
+1:Pos:(5,10)
+Origin:2
+isDot:1
+2:Pos:(6,9)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,9)
+Isdot:1
+Position:(5,9) Movement:1
+inserido
+achou uma goma em lin:5  col:10
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(5,10)
+Origin:2
+isDot:1
+1:Pos:(4,9)
+Origin:3
+isDot:0
+2:Pos:(6,9)
+Origin:1
+isDot:1
+
+
+achou uma goma em lin:5  col:11
+FILA:
+0:Pos:(4,9)
+Origin:3
+isDot:0
+1:Pos:(6,9)
+Origin:1
+isDot:1
+2:Pos:(5,11)
+Origin:2
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,10)
+Isdot:1
+Position:(5,10) Movement:2
+inserido
+achou uma goma em lin:5  col:11
+FILA:
+0:Pos:(5,9)
+Origin:0
+isDot:0
+1:Pos:(5,11)
+Origin:2
+isDot:1
+
+
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(5,11)
+Origin:2
+isDot:1
+1:Pos:(4,9)
+Origin:3
+isDot:0
+2:Pos:(6,9)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(4,9)
+Origin:3
+isDot:0
+1:Pos:(6,9)
+Origin:1
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,11)
+Isdot:1
+Position:(5,11) Movement:2
+inserido
+FILA:
+0:Pos:(5,10)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(5,9)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:6  col:9
+FILA:
+0:Pos:(4,9)
+Origin:3
+isDot:0
+1:Pos:(6,9)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(6,9)
+Origin:1
+isDot:1
+1:Pos:(3,9)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(3,9)
+Origin:3
+isDot:0
+1:Pos:(7,9)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(6,9)
+Isdot:1
+Position:(5,10) Movement:0
+Position:(5,9) Movement:0
+Position:(6,9) Movement:1
+inserido
+FILA:
+0:Pos:(5,9)
+Origin:3
+isDot:0
+1:Pos:(7,9)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,9)
+Origin:1
+isDot:0
+1:Pos:(5,10)
+Origin:2
+isDot:0
+2:Pos:(4,9)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(5,10)
+Origin:2
+isDot:0
+1:Pos:(4,9)
+Origin:3
+isDot:0
+2:Pos:(7,8)
+Origin:0
+isDot:0
+3:Pos:(7,10)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(4,9)
+Origin:3
+isDot:0
+1:Pos:(7,8)
+Origin:0
+isDot:0
+2:Pos:(7,10)
+Origin:2
+isDot:0
+3:Pos:(5,11)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,8)
+Origin:0
+isDot:0
+1:Pos:(7,10)
+Origin:2
+isDot:0
+2:Pos:(5,11)
+Origin:2
+isDot:0
+3:Pos:(3,9)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(7,10)
+Origin:2
+isDot:0
+1:Pos:(5,11)
+Origin:2
+isDot:0
+2:Pos:(3,9)
+Origin:3
+isDot:0
+3:Pos:(7,7)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(5,11)
+Origin:2
+isDot:0
+1:Pos:(3,9)
+Origin:3
+isDot:0
+2:Pos:(7,7)
+Origin:0
+isDot:0
+3:Pos:(7,11)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(3,9)
+Origin:3
+isDot:0
+1:Pos:(7,7)
+Origin:0
+isDot:0
+2:Pos:(7,11)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,7)
+Origin:0
+isDot:0
+1:Pos:(7,11)
+Origin:2
+isDot:0
+2:Pos:(2,9)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:6  col:7
+FILA:
+0:Pos:(7,11)
+Origin:2
+isDot:0
+1:Pos:(2,9)
+Origin:3
+isDot:0
+2:Pos:(7,6)
+Origin:0
+isDot:0
+3:Pos:(6,7)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(2,9)
+Origin:3
+isDot:0
+1:Pos:(7,6)
+Origin:0
+isDot:0
+2:Pos:(6,7)
+Origin:3
+isDot:1
+3:Pos:(7,12)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,6)
+Origin:0
+isDot:0
+1:Pos:(6,7)
+Origin:3
+isDot:1
+2:Pos:(7,12)
+Origin:2
+isDot:0
+3:Pos:(1,9)
+Origin:3
+isDot:0
+
+
+achou uma goma em lin:6  col:6
+FILA:
+0:Pos:(6,7)
+Origin:3
+isDot:1
+1:Pos:(7,12)
+Origin:2
+isDot:0
+2:Pos:(1,9)
+Origin:3
+isDot:0
+3:Pos:(7,5)
+Origin:0
+isDot:0
+4:Pos:(6,6)
+Origin:3
+isDot:1
+
+
+achou uma goma em lin:5  col:7
+FILA:
+0:Pos:(7,12)
+Origin:2
+isDot:0
+1:Pos:(1,9)
+Origin:3
+isDot:0
+2:Pos:(7,5)
+Origin:0
+isDot:0
+3:Pos:(6,6)
+Origin:3
+isDot:1
+4:Pos:(5,7)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(6,7)
+Isdot:1
+Position:(7,9) Movement:1
+Position:(7,8) Movement:0
+Position:(7,7) Movement:0
+Position:(6,7) Movement:3
+inserido
+achou uma goma em lin:6  col:6
+achou uma goma em lin:5  col:7
+FILA:
+0:Pos:(6,6)
+Origin:0
+isDot:1
+1:Pos:(5,7)
+Origin:3
+isDot:1
+2:Pos:(7,7)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:6
+FILA:
+0:Pos:(5,7)
+Origin:3
+isDot:1
+1:Pos:(7,7)
+Origin:1
+isDot:0
+2:Pos:(5,6)
+Origin:3
+isDot:1
+3:Pos:(7,6)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(6,6)
+Isdot:1
+Position:(6,6) Movement:0
+inserido
+achou uma goma em lin:5  col:6
+FILA:
+0:Pos:(6,7)
+Origin:2
+isDot:0
+1:Pos:(5,6)
+Origin:3
+isDot:1
+2:Pos:(7,6)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:7
+FILA:
+0:Pos:(5,6)
+Origin:3
+isDot:1
+1:Pos:(7,6)
+Origin:1
+isDot:0
+2:Pos:(5,7)
+Origin:3
+isDot:1
+3:Pos:(7,7)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:6
+FILA:
+0:Pos:(7,6)
+Origin:1
+isDot:0
+1:Pos:(5,7)
+Origin:3
+isDot:1
+2:Pos:(7,7)
+Origin:1
+isDot:0
+3:Pos:(4,6)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,6)
+Isdot:1
+Position:(5,6) Movement:3
+inserido
+achou uma goma em lin:5  col:7
+achou uma goma em lin:4  col:6
+FILA:
+0:Pos:(5,7)
+Origin:2
+isDot:1
+1:Pos:(4,6)
+Origin:3
+isDot:1
+2:Pos:(6,6)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,6)
+Origin:3
+isDot:1
+1:Pos:(6,6)
+Origin:1
+isDot:0
+2:Pos:(6,7)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(5,7)
+Isdot:1
+Position:(5,7) Movement:2
+inserido
+FILA:
+0:Pos:(5,6)
+Origin:0
+isDot:0
+1:Pos:(6,7)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:4  col:6
+FILA:
+0:Pos:(6,7)
+Origin:1
+isDot:0
+1:Pos:(4,6)
+Origin:3
+isDot:1
+2:Pos:(6,6)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,6)
+Origin:3
+isDot:1
+1:Pos:(6,6)
+Origin:1
+isDot:0
+2:Pos:(7,7)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,6)
+Origin:1
+isDot:0
+1:Pos:(7,7)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(4,6)
+Isdot:1
+Position:(5,6) Movement:0
+Position:(4,6) Movement:3
+inserido
+FILA:
+0:Pos:(5,6)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(5,7)
+Origin:2
+isDot:0
+1:Pos:(6,6)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,6)
+Origin:1
+isDot:0
+1:Pos:(6,7)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(6,7)
+Origin:1
+isDot:0
+1:Pos:(7,6)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,6)
+Origin:1
+isDot:0
+1:Pos:(7,7)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(7,7)
+Origin:1
+isDot:0
+1:Pos:(7,5)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(7,5)
+Origin:0
+isDot:0
+1:Pos:(7,8)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(7,8)
+Origin:2
+isDot:0
+1:Pos:(7,4)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(7,4)
+Origin:0
+isDot:0
+1:Pos:(7,9)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:6  col:4
+FILA:
+0:Pos:(7,9)
+Origin:2
+isDot:0
+1:Pos:(7,3)
+Origin:0
+isDot:0
+2:Pos:(6,4)
+Origin:3
+isDot:1
+
+
+FILA:
+0:Pos:(7,3)
+Origin:0
+isDot:0
+1:Pos:(6,4)
+Origin:3
+isDot:1
+2:Pos:(7,10)
+Origin:2
+isDot:0
+3:Pos:(6,9)
+Origin:3
+isDot:0
+
+
+FILA:
+0:Pos:(6,4)
+Origin:3
+isDot:1
+1:Pos:(7,10)
+Origin:2
+isDot:0
+2:Pos:(6,9)
+Origin:3
+isDot:0
+3:Pos:(7,2)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:5  col:4
+FILA:
+0:Pos:(7,10)
+Origin:2
+isDot:0
+1:Pos:(6,9)
+Origin:3
+isDot:0
+2:Pos:(7,2)
+Origin:0
+isDot:0
+3:Pos:(5,4)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(6,4)
+Isdot:1
+Position:(5,6) Movement:1
+Position:(6,6) Movement:1
+Position:(7,6) Movement:1
+Position:(7,5) Movement:0
+Position:(7,4) Movement:0
+Position:(6,4) Movement:3
+inserido
+achou uma goma em lin:5  col:4
+FILA:
+0:Pos:(5,4)
+Origin:3
+isDot:1
+1:Pos:(7,4)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:5  col:3
+achou uma goma em lin:4  col:4
+FILA:
+0:Pos:(7,4)
+Origin:1
+isDot:0
+1:Pos:(5,3)
+Origin:0
+isDot:1
+2:Pos:(4,4)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(5,4)
+Isdot:1
+Position:(5,4) Movement:3
+inserido
+achou uma goma em lin:5  col:3
+achou uma goma em lin:4  col:4
+FILA:
+0:Pos:(5,3)
+Origin:0
+isDot:1
+1:Pos:(4,4)
+Origin:3
+isDot:1
+2:Pos:(6,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,4)
+Origin:3
+isDot:1
+1:Pos:(6,4)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(5,3)
+Isdot:1
+Position:(5,3) Movement:0
+inserido
+FILA:
+0:Pos:(5,4)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:4  col:4
+FILA:
+0:Pos:(4,4)
+Origin:3
+isDot:1
+1:Pos:(6,4)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:3  col:4
+FILA:
+0:Pos:(6,4)
+Origin:1
+isDot:0
+1:Pos:(3,4)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(4,4)
+Isdot:1
+Position:(5,4) Movement:2
+Position:(4,4) Movement:3
+inserido
+achou uma goma em lin:3  col:4
+FILA:
+0:Pos:(3,4)
+Origin:3
+isDot:1
+1:Pos:(5,4)
+Origin:1
+isDot:0
+
+
+achou uma goma em lin:3  col:3
+achou uma goma em lin:2  col:4
+FILA:
+0:Pos:(5,4)
+Origin:1
+isDot:0
+1:Pos:(3,3)
+Origin:0
+isDot:1
+2:Pos:(2,4)
+Origin:3
+isDot:1
+
+
+saiu do while
+auxQueue: Pos:(3,4)
+Isdot:1
+Position:(3,4) Movement:3
+inserido
+achou uma goma em lin:3  col:3
+achou uma goma em lin:2  col:4
+FILA:
+0:Pos:(3,3)
+Origin:0
+isDot:1
+1:Pos:(2,4)
+Origin:3
+isDot:1
+2:Pos:(4,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(2,4)
+Origin:3
+isDot:1
+1:Pos:(4,4)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(3,3)
+Isdot:1
+Position:(3,3) Movement:0
+inserido
+FILA:
+0:Pos:(3,4)
+Origin:2
+isDot:0
+
+
+achou uma goma em lin:2  col:4
+FILA:
+0:Pos:(2,4)
+Origin:3
+isDot:1
+1:Pos:(4,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(4,4)
+Origin:1
+isDot:0
+1:Pos:(1,4)
+Origin:3
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(2,4)
+Isdot:1
+Position:(3,4) Movement:2
+Position:(2,4) Movement:3
+inserido
+FILA:
+0:Pos:(1,4)
+Origin:3
+isDot:0
+1:Pos:(3,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(3,4)
+Origin:1
+isDot:0
+1:Pos:(1,3)
+Origin:0
+isDot:0
+2:Pos:(1,5)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(1,3)
+Origin:0
+isDot:0
+1:Pos:(1,5)
+Origin:2
+isDot:0
+2:Pos:(3,3)
+Origin:0
+isDot:0
+3:Pos:(4,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,5)
+Origin:2
+isDot:0
+1:Pos:(3,3)
+Origin:0
+isDot:0
+2:Pos:(4,4)
+Origin:1
+isDot:0
+3:Pos:(1,2)
+Origin:0
+isDot:0
+
+
+FILA:
+0:Pos:(3,3)
+Origin:0
+isDot:0
+1:Pos:(4,4)
+Origin:1
+isDot:0
+2:Pos:(1,2)
+Origin:0
+isDot:0
+3:Pos:(1,6)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(4,4)
+Origin:1
+isDot:0
+1:Pos:(1,2)
+Origin:0
+isDot:0
+2:Pos:(1,6)
+Origin:2
+isDot:0
+
+
+FILA:
+0:Pos:(1,2)
+Origin:0
+isDot:0
+1:Pos:(1,6)
+Origin:2
+isDot:0
+2:Pos:(5,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,6)
+Origin:2
+isDot:0
+1:Pos:(5,4)
+Origin:1
+isDot:0
+2:Pos:(1,1)
+Origin:0
+isDot:0
+
+
+achou uma goma em lin:2  col:6
+FILA:
+0:Pos:(5,4)
+Origin:1
+isDot:0
+1:Pos:(1,1)
+Origin:0
+isDot:0
+2:Pos:(1,7)
+Origin:2
+isDot:0
+3:Pos:(2,6)
+Origin:1
+isDot:1
+
+
+FILA:
+0:Pos:(1,1)
+Origin:0
+isDot:0
+1:Pos:(1,7)
+Origin:2
+isDot:0
+2:Pos:(2,6)
+Origin:1
+isDot:1
+3:Pos:(5,3)
+Origin:0
+isDot:0
+4:Pos:(6,4)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(1,7)
+Origin:2
+isDot:0
+1:Pos:(2,6)
+Origin:1
+isDot:1
+2:Pos:(5,3)
+Origin:0
+isDot:0
+3:Pos:(6,4)
+Origin:1
+isDot:0
+4:Pos:(0,1)
+Origin:3
+isDot:0
+5:Pos:(2,1)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(2,6)
+Origin:1
+isDot:1
+1:Pos:(5,3)
+Origin:0
+isDot:0
+2:Pos:(6,4)
+Origin:1
+isDot:0
+3:Pos:(0,1)
+Origin:3
+isDot:0
+4:Pos:(2,1)
+Origin:1
+isDot:0
+5:Pos:(1,8)
+Origin:2
+isDot:0
+6:Pos:(2,7)
+Origin:1
+isDot:0
+
+
+FILA:
+0:Pos:(5,3)
+Origin:0
+isDot:0
+1:Pos:(6,4)
+Origin:1
+isDot:0
+2:Pos:(0,1)
+Origin:3
+isDot:0
+3:Pos:(2,1)
+Origin:1
+isDot:0
+4:Pos:(1,8)
+Origin:2
+isDot:0
+5:Pos:(2,7)
+Origin:1
+isDot:0
+
+
+saiu do while
+auxQueue: Pos:(2,6)
+Isdot:1
+Position:(1,4) Movement:3
+Position:(1,5) Movement:2
+Position:(1,6) Movement:2
+Position:(2,6) Movement:1
+
+
+==========You've finished in 9 seconds==========
+
+==========Best scores========== 
+
+1: And   Elapsed time: 1  Data: Wed Jan 20 02:37:21 2016
+
+2: And   Elapsed time: 2  Data: Mon Aug 08 14:30:00 2016
+
+3: And   Elapsed time: 2  Data: Wed Jan 20 02:37:10 2016
+
+==========Best scores========== 
+
+
+
+==========You've finished in 39 seconds==========
+
+==========Best scores========== 
+
+1: And   Elapsed time: 1  Data: Wed Jan 20 02:37:21 2016
+
+2: And   Elapsed time: 2  Data: Wed Jan 20 02:37:10 2016
+
+3: And   Elapsed time: 2  Data: Mon Aug 08 14:30:00 2016
+
+==========Best scores========== 
+
+Exited cleanly
